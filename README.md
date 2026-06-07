@@ -1,5 +1,5 @@
 # University Machine Learning Projects Catalog
-Welcome to this repository. It is the central catalog for all my university Machine Learning coursework, featuring my hands-on assignments, code implementations, and final projects. Please feel free to check out any of the projects that pique your interest.
+Welcome to this repository. It is the central catalog for all my university ***Machine Learning*** coursework, featuring *my hands-on assignments, code implementations, and final projects*. Please feel free to check out any of the projects that pique your interest.
 
 # Projects
 1. A car brand Classifier that works on videos of traffic and utilizes the YOLOv8n and the ResNet-50 models in cojunction. **[You can click here to see it](https://github.com/NakosV/Car-Brand-Classification-Through-Video)** if you are interested.
